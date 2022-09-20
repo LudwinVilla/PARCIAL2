@@ -1,0 +1,156 @@
+*{
+    margin: 2px;
+    padding: 2px;
+  }
+  ul{
+    list-style: none;
+  }
+  
+  ul li{
+    display: inline-block;
+    padding: 22px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+  .contenedor{
+    background-color: #2F2B2A;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    text-align: center;
+    border: rgb(196, 187, 187) 2px solid;
+    color: rgb(47, 148, 241);
+  }
+  .contenido{
+    display: flex;
+    background-color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+    border: black 2px solid;
+  }
+  .contenido2{
+    display: flex;
+    background-color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px;
+  }
+  .contenido3{
+    margin-left: 1%;
+    margin-right: 1%;
+    border: black 2px solid;
+  }
+  .img
+  {
+    max-width: 515px;
+    max-height: 317px;
+      
+  }
+  .titulo{
+    text-decoration: none;
+    color: rgb(47, 148, 241);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 58px;
+    font-weight: bolder;
+  }
+  .derecho{
+      width: 70%;
+      background-color: white;
+      padding: 120px;
+  }
+  
+  footer{
+    border: black 2px solid;
+    text-align: center;
+    background-color: white;
+    margin-left: 0.75%;
+    margin-right: 0.75%;
+    padding: 20px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+  }
+  
+  .tabla
+  {   
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 50px;
+    text-align:left; 
+    align-items: center;
+    
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align:justify;
+  } 
+  
+  .tabla2
+  {
+    padding-left: 30px;
+    padding-right: 30px;
+    
+  }
+  
+  .tabla1
+  {
+    padding-left: 30px;
+    padding-right:30px;
+  }
+  
+  .tabla3
+  {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  .tabla4
+  {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  
+  table
+  {
+    margin: auto;   
+  }
+  
+  .tabla {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .columna1 {
+    width: 50%;
+      background-color: white;
+      padding: 10px;
+  
+  }
+  .columna2{
+    width: 50%;
+      background-color: white;
+      padding: 10px;
+  
+  }
+  
+  .TituloTabla{
+    text-decoration: none;
+    color: rgb(47, 148, 241);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+  }
