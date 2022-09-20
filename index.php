@@ -29,7 +29,7 @@
     </div>
     <div>
     <footer>
-        Todos los derechos reservados a: lUDWIN VILLATORO
+        Todos los derechos reservados a: LUDWIN VILLATORO
     </footer>
 </div>
 </body>
