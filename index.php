@@ -29,7 +29,7 @@
     </div>
     <div>
     <footer>
-        Todos los derechos reservados a: Carlos Daniel Hidalgo 
+        Todos los derechos reservados a: lUDWIN VILLATORO
     </footer>
 </div>
 </body>
